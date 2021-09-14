@@ -2,12 +2,21 @@ package com.getting2knowij.running;
 
 public class Square {
     private final int sides = 4;
+    private String label;
 
     public Square(String label) {
-
+        this.label = label;
     }
 
     public int getSides() {
         return sides;
+    }
+
+    @Override
+    public String toString() {
+        return "Square{" +
+                "sides=" + sides +
+                ", label='" + label + '\'' +
+                '}';
     }
 }
