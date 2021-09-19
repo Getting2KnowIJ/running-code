@@ -2,7 +2,7 @@ package com.getting2knowij.running;
 
 public class Square {
     private final int sides = 4;
-    private String label;
+    private final String label;
 
     public Square(String label) {
         this.label = label;
@@ -16,7 +16,7 @@ public class Square {
     public String toString() {
         return "Square{" +
                 "sides=" + sides +
-                ", label='" + label + '\'' +
+                ", label='" + sides + '\'' +
                 '}';
     }
 }
