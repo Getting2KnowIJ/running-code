@@ -14,9 +14,10 @@ public class Square {
 
     @Override
     public String toString() {
-        return "Square{" +
+        String str = "Square{" +
                 "sides=" + sides +
                 ", label='" + sides + '\'' +
                 '}';
+        return str;
     }
 }
