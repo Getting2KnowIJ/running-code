@@ -3,7 +3,7 @@
 
 This project will let you experiment with running and debugging code in IntelliJ IDEA. It is based upon the code we wrote in [writing-code](https://github.com/Getting2KnowIJ/writing-code) but adds more features for us to run.
 
-The full tutorial for learning IntelliJ IDEA is in the book [Getting to Know IntelliJ IDEA](https://www.amazon.com/Getting-Know-IntelliJ-IDEA-Professional/dp/B0CRGX26QK/).
+The full tutorial for learning IntelliJ IDEA is in the book [Getting to Know IntelliJ IDEA](https://www.amazon.com/Getting-Know-IntelliJ-IDEA-Professional/dp/B0CRGX26QK/), or you can learn via the self-paced training course [Developing Applications with IntelliJ IDEA](https://leanpub.com/c/developingapplicationswithintellijidea).
 
 To use these samples, open the project in IntelliJ IDEA.
 
